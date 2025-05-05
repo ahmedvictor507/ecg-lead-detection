@@ -18,7 +18,7 @@ This project trains a YOLOv8 model to detect ECG lead locations from ECG chart i
 <img src="assets/00001_hr-0.png" alt="Input ECG" width="600"/>
 
 ### 🔸 YOLOv8 Lead Detection Output (Exmaple of 1 lead)
-<img src="assets/00001_hr-0_lead_2_ext.png" alt="Output Detection" width="600"/>
+<img src="assets/00001_hr-0_lead_2_ext (1).png" alt="Output Detection" width="600"/>
 
 ## 🏁 Training Command
 
