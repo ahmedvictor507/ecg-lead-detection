@@ -19,3 +19,12 @@ from ultralytics import YOLO
 
 model = YOLO('yolov8s.pt')
 model.train(data='data.yaml', ...)
+
+## 🖼 Sample Results
+
+### 🔹 Input ECG Image
+<img src="assets/00001_hr-0.png" alt="Input ECG" width="600"/>
+
+### 🔸 YOLOv8 Lead Detection Output (Exmaple of 1 lead)
+<img src="assets/00001_hr-0_lead_2_ext.png" alt="Output Detection" width="600"/>
+
